@@ -1,0 +1,256 @@
+*,
+::after,
+::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.cotainer{
+    width: 100%;
+}
+
+.container header .top-section{
+    background: #102b40;
+    height: 6hv;
+}
+.container .top-section .top-section-width{
+    width: 1000px;
+    height: 6vh;
+     margin: 0 auto;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     color: white;
+}
+.container .top-section-width .contact{
+    display: flex;
+    align-items: center;
+}
+.container .top-section-width .contact p{
+    margin-right: 15px;
+}
+.container .top-section-width .social-icon{
+    display: flex;
+
+}
+.container .top-section-width .social-icon a{
+    margin-right: 15px;
+    text-decoration: none;
+    color:white;
+}
+.container .buttom-section{
+    /* background-color: rgb(177, 163, 163); */
+    height: 12vh;
+}
+.container .buttom-section-width{
+    width: 1000px;
+    height: 12vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: 0;
+}
+
+.container .buttom-section-width ul{
+    display: flex;
+}
+.container .buttom-section-width li{
+    list-style: none;
+    margin-right: 15px;
+    padding:35px 20px;
+}
+
+.buttom-section-width .logo{
+    width: 100px;
+    height: 50px;
+    background: #1DC9A1;
+    border-radius: 8%;
+    margin-top: 20px;
+}
+main .three-side{
+   
+    background: #102b40;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+
+}
+main .three-side .one-text{
+    width: 1000px;
+    margin-top: 60px;
+    
+}
+main .three-side .one-text ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 45px;
+}
+main .three-side .one-text li{
+    
+    margin-right: 15px;
+    list-style: none;
+}
+main .three-side .three-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 8%;
+}
+.three-boxes div{
+    width:100px;
+    height: 60px;
+    border-radius: 5%;
+    background-color: #1DC9A1;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin: 34px;
+}
+.three-boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -52%;
+
+    
+}
+.four-section{
+    width: 100%;
+    /* background: rgb(250, 250, 250); */
+    margin-top: 60px;
+
+}
+.four-section .four-side{
+    width: 1100px;
+}
+.six-boxes .first{
+    width: 200px;
+    border-radius:3%;
+    height: 300px;
+    border: 1px solid #102B40;
+    margin: 10px 7px;
+    
+}
+.six-boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 40%;
+    
+}
+.four-section .text{
+    margin-left:50% ;
+    text-align: center;
+}
+
+.six-box-blue{
+    width: 180px;
+    height: 100px;
+    background: #102B40;
+    border-radius: 5%;
+    margin:11px;
+
+}
+
+.blue-box-icons{
+    display: flex;
+    justify-content: space-between;
+    margin: 11px;
+}
+.blue-box-icons ul{
+    display: flex;
+    
+}
+.blue-box-icons li{
+    margin-right: 5px;
+    list-style: none;
+}
+.blue-boxes-text{
+    margin: 15px;
+    border-bottom: 1px solid #102B40;
+}
+
+.blue-box-icons-right li{
+    /* display: flex; */
+    list-style: none;
+    margin-right: 5px;
+    
+}
+.blue-box-icons-right ul{
+    display: flex;
+    justify-content: space-between;
+}
+.four-square-sec{
+    width: 100%;
+    margin-top: 50px;
+}
+.four-square{
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+
+}
+.square-text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.square-one{
+    width: 120px;
+    height: 120px;
+    background: #1DC9A1;
+    margin-right: 15px;
+
+}
+
+.square-text-after{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.three-circle-sec{
+    margin-top:50px ;
+    width: 100%;
+}
+.three-circle{
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:20% ;
+}
+
+
+.circle-one{
+    width: 100px;
+    height: 100px;
+    background-color:#102B40 ;
+    margin-right: 15px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
